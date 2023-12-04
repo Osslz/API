@@ -21,12 +21,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 10/09/2023 | concluido| XX | 
+|01 | 25/09/2023 | concluido| [Ver Relatório](https://github.com/Osslz/API/blob/main/Sprint%201/API%201%C2%AA%20SPRINT.pptx)| 
+|02|  09/10/202a| concluido |[Ver Relatório](https://github.com/Osslz/API/blob/main/Sprint%202/API%202%C2%AA%20SPRINT.pptx) | 
+|03| 28/10/2023 | concluido|[Ver Relatório](https://github.com/Osslz/API/blob/main/Sprint%203/API%203%C2%AA%20SPRINT.pptx) | 
+|04| 27/11/2023 | concluido |[Ver Relatório](https://github.com/Osslz/API/blob/main/Sprint%204/API%204%C2%AA%20SPRINT.pptx) |
+|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
