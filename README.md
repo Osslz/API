@@ -39,7 +39,9 @@ Futuramente
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow](https://github.com/Osslz/API/blob/main/Sprint%201/imagem/Integrantes.png"/>
+</p>
 
 <p align="center">
  <img src="[https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png](https://github.com/Osslz/API/blob/main/Sprint%201/imagem/Integrantes.png)" width="100%"/>
