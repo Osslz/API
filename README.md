@@ -117,9 +117,12 @@ Na terceira Sprint, as atividades e entregas foram orientadas pela conclusão da
 
 **Além dessas iniciativas, implementamos uma solução inovadora para fortalecer o sistema Kanban. Desenvolvemos um sistema de sensores para o Kanban eletrônico, onde ao retirar as caixas da produção, o sistema emite sinais luminosos para alertar o operador. Essa abordagem visa proporcionar uma gestão visual mais eficaz e em tempo real do fluxo de trabalho, melhorando a comunicação e facilitando o controle do estoque em andamento.**
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
-</p>
+Video: [Ver Video]()
+
+PPT: (https://github.com/Osslz/API/blob/main/Sprint%203/API%203%C2%AA%20SPRINT.pptx)
+
+A conclusão da terceira Sprint destaca não apenas a otimização do fluxo de produção e a redução do estoque intermediário, mas também a introdução de inovações tecnológicas, como o sistema de sensores no Kanban eletrônico. Essa integração tecnológica representa um passo significativo para uma operação mais eficiente e alinhada com práticas modernas de gestão. O próximo passo será incorporar essa inovação ao plano de ação customizado, reforçando nosso compromisso com a melhoria contínua e a excelência operacional.
+
 
 ## Sprint 4
 >Descrever aqui o que foi entregue na sprint
