@@ -5,7 +5,6 @@ O acúmulo de estoque intermediário é um problema comum em processos de produ�
 # Índice
 
 * [Projeto (API)](#projeto-api)
-* [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
@@ -31,8 +30,6 @@ Sprint | Previsão | Status| Histórico|
 
 > Possíveis status: a fazer, em progresso e concluido
 
-# Micro Certificações
-Futuramente
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
