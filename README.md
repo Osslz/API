@@ -77,6 +77,8 @@ Video:<p align="center">
  <img src="https://github.com/Osslz/API/blob/main/Sprint%201/1-Sprint.mp4" width="100%"/>
 </p>
 
+PPT: (https://github.com/Osslz/API/blob/main/Sprint%201/API%201%C2%AA%20SPRINT.pptx)
+
 Ao concluir esta Sprint, reforçamos nosso compromisso em orientar a empresa na melhoria da linha de produção. Estamos empolgados em colaborar e, sem a necessidade de aumentar a mão de obra, implementar práticas eficazes como o Kaizen, VSM, Kanban e nivelamento da produção. A próxima etapa envolverá uma reunião conjunta para discutir e decidir qual abordagem melhor se alinha às necessidades específicas da empresa.
 
 ## Sprint 2
