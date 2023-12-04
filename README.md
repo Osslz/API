@@ -1,8 +1,6 @@
 # Aprendizado por Projeto Integrado (API) - GRUPO ALHPA - Estudo de redução de estoques intermediários 
 
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+O acúmulo de estoque intermediário é um problema comum em processos de produção, e pode ser resolvido por meio de estratégias de gestão, monitoramento da produção industrial e princípios do lean
 
 # Índice
 
