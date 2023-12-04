@@ -1,7 +1,7 @@
 # Aprendizado por Projeto Integrado (API) - GRUPO ALHPA - Estudo de redução de estoques intermediários 
 
 <p align="center">
- <img src="https://github.com/Osslz/API/blob/main/Sprint%201/image.png"/>
+ <img src="[https://github.com/Osslz/API/blob/main/Sprint%201/image.png"/>
 </p>
 
 # Índice
