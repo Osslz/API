@@ -73,23 +73,49 @@ Na primeira Sprint, propomos realizar colaborativamente com a empresa as seguint
 
 5. **Aplicação de Princípios do KAIZEN:** Juntos, identificaremos gargalos e exploraremos meios para tornar a produção mais eficiente, reduzindo o estoque intermediário. A abordagem Kaizen será essencial para promover melhorias contínuas.
 
-Video: [Ver Relatório](https://github.com/Osslz/API/blob/main/Sprint%201/1-Sprint.mp4)
+Video: [Ver Video](https://github.com/Osslz/API/blob/main/Sprint%201/1-Sprint.mp4)
 
 PPT: (https://github.com/Osslz/API/blob/main/Sprint%201/API%201%C2%AA%20SPRINT.pptx)
 
 Ao concluir esta Sprint, reforçamos nosso compromisso em orientar a empresa na melhoria da linha de produção. Estamos empolgados em colaborar e, sem a necessidade de aumentar a mão de obra, implementar práticas eficazes como o Kaizen, VSM, Kanban e nivelamento da produção. A próxima etapa envolverá uma reunião conjunta para discutir e decidir qual abordagem melhor se alinha às necessidades específicas da empresa.
 
 ## Sprint 2
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+Na segunda Sprint, nosso foco esteve na execução das seguintes atividades em colaboração com a empresa:
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
-</p>
+1. **Início da Confecção do VSM do PN0001:**
+   - Juntos, começamos a elaborar o Value Stream Mapping específico para o produto PN0001, visando uma compreensão detalhada do fluxo de valor associado a esse item.
+
+2. **Identificação dos 7 Desperdícios do Lean:**
+   - Trabalhamos na identificação e compreensão dos sete desperdícios Lean, incluindo superprodução, estoque, movimentação ineficiente, entre outros.
+
+3. **Revisão do Layout em Conjunto com Grupos Parceiros:**
+   - Colaboramos na revisão do layout, considerando a aplicação do Kanban e visando otimizar a movimentação eficiente de materiais.
+
+Video: [Ver Video](https://github.com/Osslz/API/blob/main/Sprint%202/2-Sprint.mp4)
+
+PPT: (https://github.com/Osslz/API/blob/main/Sprint%202/API%202%C2%AA%20SPRINT.pptx)
+
+A conclusão da segunda Sprint destaca a identificação de oportunidades de melhoria no processo produtivo da empresa. Propostas foram apresentadas para a revisão do processo puxado e implementação do Kanban, com o objetivo de otimizar o fluxo de materiais, reduzir os tempos de ciclo e minimizar estoques. Os próximos passos sugeridos incluem a finalização do mapeamento do fluxo de valor em conjunto com a empresa e a realização de uma reunião para decidir a abordagem mais adequada às operações específicas e a visão da empresa sobre o estoque intermediário.
 
 ## Sprint 3
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+Na terceira Sprint, as atividades e entregas foram orientadas pela conclusão da segunda Sprint, e o foco estava na execução das seguintes iniciativas em colaboração com a empresa:
+
+1. **Finalização do VSM (Value Stream Mapping):**
+   - Trabalhamos na conclusão do mapeamento do fluxo de valor, proporcionando uma visão completa e detalhada do processo produtivo.
+
+2. **Análise da Causa do Estoque Intermediário:**
+   - Identificamos que a superprodução, causada pela complexidade das trocas de setup nas máquinas, contribui para o estoque intermediário. Iniciamos uma análise aprofundada dessa causa.
+
+3. **Nivelamento da Produção e Aplicação do Kanban:**
+   - Propusemos estratégias para nivelar a produção, reduzindo a produção na Plissadora e implementando o Kanban para melhorar o controle de estoque e a eficiência.
+
+4. **Reaproveitamento dos Armários de Rolete para Aplicação do Kanban:**
+   - Identificamos oportunidades de reutilização de recursos, como os armários de rolete, para a implementação eficaz do Kanban.
+
+5. **Otimização do Trabalho Ocioso na Plissadora:**
+   - Propusemos designar um operador especializado em configurações (setup) como facilitador, buscando melhorar a eficiência da máquina e reduzir o tempo de inatividade.
+
+**Além dessas iniciativas, implementamos uma solução inovadora para fortalecer o sistema Kanban. Desenvolvemos um sistema de sensores para o Kanban eletrônico, onde ao retirar as caixas da produção, o sistema emite sinais luminosos para alertar o operador. Essa abordagem visa proporcionar uma gestão visual mais eficaz e em tempo real do fluxo de trabalho, melhorando a comunicação e facilitando o controle do estoque em andamento.**
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
