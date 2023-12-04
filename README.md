@@ -148,14 +148,70 @@ A conclusão da quarta Sprint destaca o sucesso do projeto acadêmico centrado n
 Este trabalho não apenas atende aos requisitos acadêmicos, mas também pode ter implicações práticas valiosas, contribuindo para a aplicação bem-sucedida de práticas Lean no ambiente real de produção. O período de testes proporcionará insights cruciais para ajustes finos e refinamentos, visando a implementação plena e eficaz no futuro.
 
 ## Tecnologias Utilizadas
-### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+## Produto (MVP - Mínimo Produto Viável)
 
-### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+### Primeira Sprint
+- **Elaboração do VSM (Value Stream Mapping):**
+  - Utilização de ferramentas gráficas para mapear o fluxo de valor.
   
-### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+- **Revisão do Processo de Produção Puxado:**
+  - Análise de processos puxados sequenciais e mistos sequenciais com mercado.
+  
+- **Revisar a Aplicação do KANBAN:**
+  - Implementação do Kanban para controle visual e gestão de estoque.
+
+### Segunda Sprint
+- **Início da Confecção do VSM do PN0001:**
+  - Continuação do uso de ferramentas gráficas para mapear o fluxo de valor específico do produto PN0001.
+  
+- **Identificação dos 7 Desperdícios do Lean:**
+  - Análise dos sete desperdícios Lean.
+  
+- **Revisão do Layout em Conjunto com Grupos Parceiros:**
+  - Utilização de ferramentas de modelagem para otimização do layout.
+
+### Terceira Sprint
+- **Finalização do VSM:**
+  - Conclusão do mapeamento do fluxo de valor.
+  
+- **Implementação do Sistema de Sensores para Kanban Eletrônico:**
+  - Desenvolvimento de sistema de sensores para melhorar a eficácia do Kanban.
+
+### Quarta Sprint
+- **Teste do Protótipo do Kanban e Possível Aplicação em Outras Áreas:**
+  - Uso de tecnologias para teste do protótipo do Kanban e avaliação de possíveis aplicações em diferentes áreas.
+  
+- **Propostas de Abordagens Inovadoras:**
+  - Utilização de tecnologias como visão computacional e servo motores nas propostas inovadoras.
+
+## Tecnologias Específicas/Apoio
+
+- **Ferramentas Gráficas de Modelagem:**
+  - Uso de ferramentas como Lucidchart para elaboração de mapas de fluxo.
+  
+- **Tecnologias para Análise Lean:**
+  - Utilização de metodologias e ferramentas específicas para análise Lean, como Value Stream Mapping (VSM) e Kanban.
+  
+- **Desenvolvimento de Sistema de Sensores:**
+  - Linguagens de programação e hardware para desenvolver o sistema de sensores.
+
+- **Ferramentas de Teste e Avaliação:**
+  - Ferramentas de teste específicas para avaliar a eficácia do Kanban e outras propostas inovadoras.
+
+## Mindset Digital
+
+- **Ferramentas de Colaboração Online:**
+  - Uso de plataformas de colaboração online para reuniões e discussões com a equipe.
+  
+- **Sistemas de Comunicação Interna:**
+  - Implementação de sistemas de comunicação interna para facilitar a troca de informações e manter todos os membros da equipe atualizados.
+
+- **Plataformas de Coleta e Análise de Dados:**
+  - Utilização de plataformas para coleta e análise de dados de produção.
+
+- **Ferramentas para Apresentação e Documentação:**
+  - Ferramentas para criação de apresentações e documentação, como Microsoft Office e Google Workspace.
+
 
 # Cronograma das Sprints
 
