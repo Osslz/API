@@ -43,7 +43,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
->O acúmulo de estoque intermediário é um problema comum em processos de produção, e pode ser resolvido por meio de estratégias de gestão, monitoramento da produção industrial e princípios do lean
+O acúmulo de estoque intermediário é um problema comum em processos de produção, e pode ser resolvido por meio de estratégias de gestão, monitoramento da produção industrial e princípios do lean
 O objetivo deste projeto é o estudo da redução dos estoques intermediarios da empresa, propondo melhorias específicas. 
 Incluem:
 
@@ -61,12 +61,23 @@ Estas sugestões visam não apenas otimizar o processo produtivo, mas também of
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+Na primeira Sprint, propomos realizar colaborativamente com a empresa as seguintes iniciativas:
+
+1. **Elaboração do VSM (Value Stream Mapping):** Juntos, iremos mapear o fluxo de valor do processo de produção. Este exercício permitirá uma visualização clara de cada etapa, identificando oportunidades para otimização.
+
+2. **Revisão do Processo de Produção Puxado:** Trabalharemos em conjunto na revisão e implementação de estratégias para o processo puxado. Isso incluirá a análise de abordagens como puxado sequencial e puxado misto sequencial com mercado, visando redução de estoques, perdas e custos.
+
+3. **Revisão da Aplicação do KANBAN:** Colaboraremos na revisão da metodologia Kanban e sua aplicação específica em diferentes estágios do processo. O objetivo é proporcionar maior visibilidade e controle sobre o estoque em andamento.
+
+4. **Integração do KANBAN ao VSM:** Vamos integrar de forma colaborativa o Kanban ao Value Stream Mapping, fornecendo uma representação visual abrangente do fluxo de valor, destacando áreas para melhorias contínuas.
+
+5. **Aplicação de Princípios do KAIZEN:** Juntos, identificaremos gargalos e exploraremos meios para tornar a produção mais eficiente, reduzindo o estoque intermediário. A abordagem Kaizen será essencial para promover melhorias contínuas.
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
 </p>
+
+Ao concluir esta Sprint, reforçamos nosso compromisso em orientar a empresa na melhoria da linha de produção. Estamos empolgados em colaborar e, sem a necessidade de aumentar a mão de obra, implementar práticas eficazes como o Kaizen, VSM, Kanban e nivelamento da produção. A próxima etapa envolverá uma reunião conjunta para discutir e decidir qual abordagem melhor se alinha às necessidades específicas da empresa.
 
 ## Sprint 2
 >Descrever aqui o que foi entregue na sprint
