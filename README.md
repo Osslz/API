@@ -132,13 +132,6 @@ A conclusão da terceira Sprint destaca não apenas a otimização do fluxo de p
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
 </p>
 
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/alinhamento.png" width="100%"/>
-</p>
 
 ## Tecnologias Utilizadas
 ### Produto 
@@ -153,9 +146,15 @@ Vídeo com a apresentação final da API do "semestre/ano"
 # Cronograma das Sprints
 
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+Sprint | Previsão | Status| Histórico|
+|------|--------|------|--------|
+|Kick Off | 10/09/2023 | concluido| XX | 
+|01 | 25/09/2023 | concluido| [Ver Relatório](https://github.com/Osslz/API/blob/main/Sprint%201/API%201%C2%AA%20SPRINT.pptx)| 
+|02|  09/10/202a| concluido |[Ver Relatório](https://github.com/Osslz/API/blob/main/Sprint%202/API%202%C2%AA%20SPRINT.pptx) | 
+|03| 28/10/2023 | concluido|[Ver Relatório](https://github.com/Osslz/API/blob/main/Sprint%203/API%203%C2%AA%20SPRINT.pptx) | 
+|04| 27/11/2023 | concluido |[Ver Relatório](https://github.com/Osslz/API/blob/main/Sprint%204/API%204%C2%AA%20SPRINT.pptx) |
+|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
 ## Backlog do produto
