@@ -74,7 +74,7 @@ Na primeira Sprint, propomos realizar colaborativamente com a empresa as seguint
 5. **Aplicação de Princípios do KAIZEN:** Juntos, identificaremos gargalos e exploraremos meios para tornar a produção mais eficiente, reduzindo o estoque intermediário. A abordagem Kaizen será essencial para promover melhorias contínuas.
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
+ <img src="https://github.com/Osslz/API/blob/main/Sprint%201/1-Sprint.mp4" width="100%"/>
 </p>
 
 Ao concluir esta Sprint, reforçamos nosso compromisso em orientar a empresa na melhoria da linha de produção. Estamos empolgados em colaborar e, sem a necessidade de aumentar a mão de obra, implementar práticas eficazes como o Kaizen, VSM, Kanban e nivelamento da produção. A próxima etapa envolverá uma reunião conjunta para discutir e decidir qual abordagem melhor se alinha às necessidades específicas da empresa.
