@@ -117,7 +117,7 @@ Na terceira Sprint, as atividades e entregas foram orientadas pela conclusão da
 
 **Além dessas iniciativas, implementamos uma solução inovadora para fortalecer o sistema Kanban. Desenvolvemos um sistema de sensores para o Kanban eletrônico, onde ao retirar as caixas da produção, o sistema emite sinais luminosos para alertar o operador. Essa abordagem visa proporcionar uma gestão visual mais eficaz e em tempo real do fluxo de trabalho, melhorando a comunicação e facilitando o controle do estoque em andamento.**
 
-Video: [Ver Video]()
+Video: [Ver Video](https://github.com/Osslz/API/blob/main/Sprint%203/3-Sprint.mp4)
 
 PPT: (https://github.com/Osslz/API/blob/main/Sprint%203/API%203%C2%AA%20SPRINT.pptx)
 
@@ -125,13 +125,27 @@ A conclusão da terceira Sprint destaca não apenas a otimização do fluxo de p
 
 
 ## Sprint 4
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+Na quarta Sprint, as atividades foram direcionadas para a execução das seguintes iniciativas e entregas, conforme a conclusão da terceira Sprint:
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
-</p>
+1. **Teste do Protótipo do Kanban:**
+   - Realizamos testes bem-sucedidos do protótipo do Kanban implementado, validando sua eficácia na empresa.
 
+2. **Possível Aplicação do Kanban:**
+   - Identificamos áreas específicas para a replicação do sistema Kanban, com destaque para a possibilidade de aplicação em um sensor de nível de cola na TEB (Tintura, Estamparia e Acabamento).
+
+3. **Outras Abordagens Inovadoras Propostas:**
+   - Propusemos abordagens adicionais, como a aplicação de sistema de visão computacional para medição de filtros e a utilização de servo motores para autocalibração das facas na plissadora.
+
+4. **Otimização do Trabalho Ocioso na Plissadora (Revisão):**
+   - Refinamos a proposta anterior relacionada à ociosidade na plissadora, identificando momentos específicos de ociosidade e propondo melhorias.
+
+Video: [Ver Video]()
+
+PPT: (https://github.com/Osslz/API/blob/main/Sprint%204/API%204%C2%AA%20SPRINT.pptx)
+
+A conclusão da quarta Sprint destaca o sucesso do projeto acadêmico centrado na implementação do sistema de alertas do Kanban. Os testes do sistema mostraram-se promissores, indicando potenciais melhorias na eficiência operacional e na redução de estoques intermediários. As propostas inovadoras, incluindo a aplicação do Kanban em novas áreas e a introdução de tecnologias como visão computacional e servo motores, representam uma abordagem proativa em busca de maior eficiência e automação.
+
+Este trabalho não apenas atende aos requisitos acadêmicos, mas também pode ter implicações práticas valiosas, contribuindo para a aplicação bem-sucedida de práticas Lean no ambiente real de produção. O período de testes proporcionará insights cruciais para ajustes finos e refinamentos, visando a implementação plena e eficaz no futuro.
 
 ## Tecnologias Utilizadas
 ### Produto 
