@@ -40,7 +40,7 @@ Futuramente
 
 # Equipe
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow](https://github.com/Osslz/API/blob/main/Sprint%201/imagem/Integrantes.png"/>
+ <img src="https://github.com/Osslz/API/blob/main/Sprint%201/imagem/Integrantes.png"/>
 </p>
 
 <p align="center">
