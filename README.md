@@ -1,6 +1,8 @@
 # Aprendizado por Projeto Integrado (API) - GRUPO ALHPA - Estudo de redução de estoques intermediários 
 
-O acúmulo de estoque intermediário é um problema comum em processos de produção, e pode ser resolvido por meio de estratégias de gestão, monitoramento da produção industrial e princípios do lean
+<p align="center">
+ <img src="https://github.com/Osslz/API/blob/main/Sprint%201/image.png"/>
+</p>
 
 # Índice
 
@@ -31,10 +33,6 @@ Sprint | Previsão | Status| Histórico|
 > Possíveis status: a fazer, em progresso e concluido
 
 
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
 # Equipe
 <p align="center">
  <img src="https://github.com/Osslz/API/blob/main/Sprint%201/imagem/Integrantes.png"/>
@@ -45,7 +43,20 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+>O acúmulo de estoque intermediário é um problema comum em processos de produção, e pode ser resolvido por meio de estratégias de gestão, monitoramento da produção industrial e princípios do lean
+O objetivo deste projeto é o estudo da redução dos estoques intermediarios da empresa, propondo melhorias específicas. 
+Incluem:
+
+1. **Eliminação de Desperdícios:** Identificação e eliminação de atividades sem valor agregado por meio do método Kaizen.
+2. **Controle de Fluxo:** Implementação do sistema Kanban para otimizar o controle de estoque e reduzir desperdícios.
+3. **Mapeamento do Processo:** Utilização do Value Stream Mapping (VSM) para visualizar e aprimorar o fluxo de produção.
+4. **Nivelamento da Produção:** Ajuste da produção para evitar superprodução e melhorar a eficiência.
+5. **Otimização de Layout:** Revisão do layout para aprimorar a movimentação eficiente de materiais.
+6. **Redução de Custos:** Foco na redução de custos associados ao estoque intermediário e à superprodução.
+7. **Melhoria Contínua:** Implementação de um ciclo de melhoria contínua, monitorando resultados e ajustando estratégias conforme necessário.
+
+Estas sugestões visam não apenas otimizar o processo produtivo, mas também oferecer uma abordagem prática e implementável para a empresa, resultando em eficiência aprimorada e redução de custos.
+
 
 # Funcionalidades e Demonstrações das Sprints
 
