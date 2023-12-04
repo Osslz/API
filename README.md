@@ -148,7 +148,7 @@ A conclusão da quarta Sprint destaca o sucesso do projeto acadêmico centrado n
 Este trabalho não apenas atende aos requisitos acadêmicos, mas também pode ter implicações práticas valiosas, contribuindo para a aplicação bem-sucedida de práticas Lean no ambiente real de produção. O período de testes proporcionará insights cruciais para ajustes finos e refinamentos, visando a implementação plena e eficaz no futuro.
 
 ## Tecnologias Utilizadas
-# Produto (MVP - Mínimo Produto Viável)
+Produto (MVP - Mínimo Produto Viável)
 ### Primeira Sprint
 - **Elaboração do VSM (Value Stream Mapping):**
   - Utilização de ferramentas gráficas para mapear o fluxo de valor.
