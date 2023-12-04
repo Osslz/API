@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - GRUPO ALHPA
+# Aprendizado por Projeto Integrado (API) - GRUPO ALHPA - Estudo de redução de estoques intermediários 
 
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
