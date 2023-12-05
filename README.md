@@ -226,7 +226,7 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
-acklog do Produto
+Backlog do Produto
 
 ## Requisitos Funcionais
 - **Elaboração do VSM (Value Stream Mapping):**
@@ -274,24 +274,29 @@ acklog do Produto
 
 ## Hard Skill (Saber Tecnológico)
 
-### Sprint 1 a 4
-- **Colaboração e Trabalho em Equipe:**
-  - Fortalecimento da colaboração e cooperação entre os membros da equipe durante todo o projeto.
+### Sprint 1 e 2
+- **Elaboração do VSM (Value Stream Mapping):**
+  - Desenvolvimento de habilidades em ferramentas gráficas para mapeamento de processos.
   
-- **Comunicação Efetiva:**
-  - Aprimoramento da comunicação interna, garantindo a transmissão clara e precisa de informações.
+- **Revisão do Processo de Produção Puxado:**
+  - Compreensão aprofundada dos conceitos de produção puxada e suas variações.
   
-- **Pensamento Crítico:**
-  - Desenvolvimento do pensamento crítico na análise de processos e propostas de melhoria.
+- **Revisar a Aplicação do KANBAN:**
+  - Implementação e uso prático do sistema Kanban.
+
+### Sprint 3
+- **Finalização do VSM:**
+  - Conclusão bem-sucedida do mapeamento detalhado do fluxo de valor.
   
-- **Gestão do Tempo:**
-  - Aprendizado na gestão eficaz do tempo para cumprir prazos e metas estabelecidas.
+- **Implementação do Sistema de Sensores para Kanban Eletrônico:**
+  - Desenvolvimento e integração de sistema de sensores.
+
+### Sprint 4
+- **Teste do Protótipo do Kanban e Possível Aplicação em Outras Áreas:**
+  - Habilidades em teste de protótipos e avaliação de sua aplicabilidade em diferentes contextos.
   
-- **Criatividade e Inovação:**
-  - Estímulo à criatividade na proposição de soluções inovadoras para os desafios identificados.
-  
-- **Adaptabilidade e Flexibilidade:**
-  - Desenvolvimento da capacidade de se adaptar a mudanças e ajustar estratégias conforme necessário.
+- **Propostas de Abordagens Inovadoras:**
+  - Desenvolvimento de propostas inovadoras envolvendo tecnologias como visão computacional e servo motores.
 
 Essas competências adquiridas ao longo do projeto fortaleceram tanto o aspecto técnico quanto o comportamental da equipe, preparando-a para enfrentar desafios futuros de maneira mais holística e eficaz.
 </details>
