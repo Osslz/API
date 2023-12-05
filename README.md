@@ -252,24 +252,24 @@ Backlog do Produto
 >Colocar aqui Burndown do projeto
 
 
-# Sprint 1 - Concepção
+## Sprint 1 - Concepção
 
 - [x] Levantamento de Requisitos
 - [x] Definição de Objetivos
 - [x] Design do Fluxo de Valor
 
-# Sprint 2 - Desenvolvimento do Projeto
+## Sprint 2 - Desenvolvimento do Projeto
 
 - [x] Elaboração do VSM do PN0001
 - [x] Identificação dos 7 Desperdícios do Lean
 - [x] Revisão do Layout em Conjunto com Grupos Parceiros
 
-# Sprint 3 - Implementação
+## Sprint 3 - Implementação
 
 - [x] Finalização do VSM
 - [x] Implementação do Sistema de Sensores para Kanban Eletrônico
 
-# Sprint 4 - Operacionalização
+## Sprint 4 - Operacionalização
 
 - [x] Teste do Protótipo do Kanban e Possível Aplicação em Outras Áreas
 - [x] Propostas de Abordagens Inovadoras
