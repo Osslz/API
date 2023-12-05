@@ -304,9 +304,27 @@ Essas competências adquiridas ao longo do projeto fortaleceram tanto o aspecto 
  
 </details>
 
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
+# Soft Skill (Saber Comportamental)
+
+## Sprint 1 a 4
+- **Colaboração e Trabalho em Equipe:**
+  - Fortalecimento da colaboração e cooperação entre os membros da equipe durante todo o projeto.
+  
+- **Comunicação Efetiva:**
+  - Aprimoramento da comunicação interna, garantindo a transmissão clara e precisa de informações.
+  
+- **Pensamento Crítico:**
+  - Desenvolvimento do pensamento crítico na análise de processos e propostas de melhoria.
+  
+- **Gestão do Tempo:**
+  - Aprendizado na gestão eficaz do tempo para cumprir prazos e metas estabelecidas.
+  
+- **Criatividade e Inovação:**
+  - Estímulo à criatividade na proposição de soluções inovadoras para os desafios identificados.
+  
+- **Adaptabilidade e Flexibilidade:**
+  - Desenvolvimento da capacidade de se adaptar a mudanças e ajustar estratégias conforme necessário.
+
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
