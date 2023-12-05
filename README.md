@@ -271,6 +271,9 @@ acklog do Produto
 # Competências desenvolvidas
 > Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
+
+## Hard Skill (Saber Tecnológico)
+
 ### Sprint 1 a 4
 - **Colaboração e Trabalho em Equipe:**
   - Fortalecimento da colaboração e cooperação entre os membros da equipe durante todo o projeto.
@@ -304,9 +307,9 @@ Essas competências adquiridas ao longo do projeto fortaleceram tanto o aspecto 
  
 </details>
 
-# Soft Skill (Saber Comportamental)
+## Soft Skill (Saber Comportamental)
 
-## Sprint 1 a 4
+### Sprint 1 a 4
 - **Colaboração e Trabalho em Equipe:**
   - Fortalecimento da colaboração e cooperação entre os membros da equipe durante todo o projeto.
   
