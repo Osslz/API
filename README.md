@@ -28,7 +28,7 @@ Sprint | Previsão | Status| Histórico|
 |02|  09/10/202a| concluido |[Ver Relatório](https://github.com/Osslz/API/blob/main/Sprint%202/API%202%C2%AA%20SPRINT.pptx) | 
 |03| 28/10/2023 | concluido|[Ver Relatório](https://github.com/Osslz/API/blob/main/Sprint%203/API%203%C2%AA%20SPRINT.pptx) | 
 |04| 27/11/2023 | concluido |[Ver Relatório](https://github.com/Osslz/API/blob/main/Sprint%204/API%204%C2%AA%20SPRINT.pptx) |
-|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Feira de Soluções|12/12/2023 |a fazer |-- | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
@@ -226,12 +226,27 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
-## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
+acklog do Produto
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
+## Requisitos Funcionais
+- **Elaboração do VSM (Value Stream Mapping):**
+  - A equipe fornecerá um mapa gráfico detalhado do fluxo de valor, identificando áreas de melhoria.
+  
+- **Revisão do Processo de Produção Puxado:**
+  - Análise aprofundada dos processos puxados, identificando oportunidades de redução de estoque e desperdícios.
+  
+- **Revisar a Aplicação do KANBAN:**
+  - Implementação prática do sistema Kanban para otimizar o controle de estoque e a eficiência operacional.
+
+## Requisitos Não Funcionais
+- **Uso de Ferramentas Gráficas:**
+  - A equipe utilizará ferramentas gráficas como Lucidchart para elaboração de mapas de fluxo.
+  
+- **Análise Lean:**
+  - Utilização de metodologias e ferramentas específicas para análise Lean, como Value Stream Mapping (VSM) e Kanban.
+  
+- **Desenvolvimento de Sistema de Sensores:**
+  - Implementação de um sistema de sensores para aprimorar a eficácia do Kanban.
 
 ## Burndown
 >Colocar aqui Burndown do projeto
@@ -256,9 +271,27 @@ Sprint | Previsão | Status| Histórico|
 # Competências desenvolvidas
 > Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
+### Sprint 1 a 4
+- **Colaboração e Trabalho em Equipe:**
+  - Fortalecimento da colaboração e cooperação entre os membros da equipe durante todo o projeto.
+  
+- **Comunicação Efetiva:**
+  - Aprimoramento da comunicação interna, garantindo a transmissão clara e precisa de informações.
+  
+- **Pensamento Crítico:**
+  - Desenvolvimento do pensamento crítico na análise de processos e propostas de melhoria.
+  
+- **Gestão do Tempo:**
+  - Aprendizado na gestão eficaz do tempo para cumprir prazos e metas estabelecidas.
+  
+- **Criatividade e Inovação:**
+  - Estímulo à criatividade na proposição de soluções inovadoras para os desafios identificados.
+  
+- **Adaptabilidade e Flexibilidade:**
+  - Desenvolvimento da capacidade de se adaptar a mudanças e ajustar estratégias conforme necessário.
+
+Essas competências adquiridas ao longo do projeto fortaleceram tanto o aspecto técnico quanto o comportamental da equipe, preparando-a para enfrentar desafios futuros de maneira mais holística e eficaz.
+</details>
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
