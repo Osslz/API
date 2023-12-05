@@ -251,26 +251,32 @@ Backlog do Produto
 ## Burndown
 >Colocar aqui Burndown do projeto
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
 
-## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+# Sprint 1 - Concepção
 
-## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
-## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
-## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+- [x] Levantamento de Requisitos
+- [x] Definição de Objetivos
+- [x] Design do Fluxo de Valor
+
+# Sprint 2 - Desenvolvimento do Projeto
+
+- [x] Elaboração do VSM do PN0001
+- [x] Identificação dos 7 Desperdícios do Lean
+- [x] Revisão do Layout em Conjunto com Grupos Parceiros
+
+# Sprint 3 - Implementação
+
+- [x] Finalização do VSM
+- [x] Implementação do Sistema de Sensores para Kanban Eletrônico
+
+# Sprint 4 - Operacionalização
+
+- [x] Teste do Protótipo do Kanban e Possível Aplicação em Outras Áreas
+- [x] Propostas de Abordagens Inovadoras
+
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
-
 
 ## Hard Skill (Saber Tecnológico)
 
