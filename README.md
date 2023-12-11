@@ -117,7 +117,7 @@ Na terceira Sprint, as atividades e entregas foram orientadas pela conclusão da
 
 **Além dessas iniciativas, implementamos uma solução inovadora para fortalecer o sistema Kanban. Desenvolvemos um sistema de sensores para o Kanban eletrônico, onde ao retirar as caixas da produção, o sistema emite sinais luminosos para alertar o operador. Essa abordagem visa proporcionar uma gestão visual mais eficaz e em tempo real do fluxo de trabalho, melhorando a comunicação e facilitando o controle do estoque em andamento.**
 
-Video: [Ver Video](https://github.com/Osslz/API/blob/main/Sprint%203/3-Sprint.mp4)
+Video: [Apresentação feita presencial]()
 
 PPT: (https://github.com/Osslz/API/blob/main/Sprint%203/API%203%C2%AA%20SPRINT.pptx)
 
@@ -343,11 +343,11 @@ Essas competências adquiridas ao longo do projeto fortaleceram tanto o aspecto 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Pro-atividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Colaboração e Trabalho em Equipe | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão do Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Criatividade e Inovação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Adaptabilidade e Flexibilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
 
