@@ -309,10 +309,10 @@ Essas competências adquiridas ao longo do projeto fortaleceram tanto o aspecto 
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| VSM | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Avaliação de Processos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Abordagens Inovadoras | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Aplicação do KANBAN | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| VSM | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Avaliação de Processos | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Abordagens Inovadoras | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Aplicação do KANBAN | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
