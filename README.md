@@ -117,7 +117,7 @@ Na terceira Sprint, as atividades e entregas foram orientadas pela conclusão da
 
 **Além dessas iniciativas, implementamos uma solução inovadora para fortalecer o sistema Kanban. Desenvolvemos um sistema de sensores para o Kanban eletrônico, onde ao retirar as caixas da produção, o sistema emite sinais luminosos para alertar o operador. Essa abordagem visa proporcionar uma gestão visual mais eficaz e em tempo real do fluxo de trabalho, melhorando a comunicação e facilitando o controle do estoque em andamento.**
 
-Video: [Apresentação feita presencial]()
+Video: [Ver Video](https://github.com/Osslz/API/blob/main/Sprint%203/3-Sprint.mp4)
 
 PPT: (https://github.com/Osslz/API/blob/main/Sprint%203/API%203%C2%AA%20SPRINT.pptx)
 
@@ -139,7 +139,7 @@ Na quarta Sprint, as atividades foram direcionadas para a execução das seguint
 4. **Otimização do Trabalho Ocioso na Plissadora (Revisão):**
    - Refinamos a proposta anterior relacionada à ociosidade na plissadora, identificando momentos específicos de ociosidade e propondo melhorias.
 
-Video: [Ver Video]()
+Video: [Apresentação feita presencial]()
 
 PPT: (https://github.com/Osslz/API/blob/main/Sprint%204/API%204%C2%AA%20SPRINT.pptx)
 
@@ -309,12 +309,10 @@ Essas competências adquiridas ao longo do projeto fortaleceram tanto o aspecto 
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| VSM | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Avaliação de Processos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Abordagens Inovadoras | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Aplicação do KANBAN | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
